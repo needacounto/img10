@@ -1,0 +1,45 @@
+{
+  "skyway": {
+    "scheduler-max": 33
+  },
+  "repositories": {
+    "stash": {
+      "username": "needacounto",
+      "images": true,
+      "issueStartNumber": 1,
+      "issueEndNumber": 2
+    },
+    "stash2": {
+      "username": "needacounto",
+      "images": true,
+      "issueStartNumber": 1,
+      "issueEndNumber": 2
+    },
+    "stash3": {
+      "username": "needacounto",
+      "images": true,
+      "issueStartNumber": 1,
+      "issueEndNumber": 1
+    },
+    "stash4": {
+      "username": "needacounto",
+      "images": true,
+      "issueStartNumber": 1,
+      "issueEndNumber": 2
+    },
+    "stash5": {
+      "username": "needacounto",
+      "images": true,
+      "issueStartNumber": 1,
+      "issueEndNumber": 8
+    }
+  },
+  "formulas": [
+    "random",
+    "leftLeaning",
+    "rightLeaning1",
+    "rightLeaning1",
+    "recent20Percent",
+    "recent5Percent"
+  ]
+}
