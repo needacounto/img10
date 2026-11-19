@@ -1,0 +1,86 @@
+{
+  "stash": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 2
+  },
+  "stash10": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 16
+  },
+  "stash11": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 11
+  },
+  "stash12": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 15
+  },
+  "stash13": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 7
+  },
+  "stash14": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 10
+  },
+  "stash2": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 2
+  },
+  "stash3": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 1
+  },
+  "stash4": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 2
+  },
+  "stash5": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 8
+  },
+  "stash6": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 18
+  },
+  "stash7": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 21
+  },
+  "stash8": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 1
+  },
+  "stash9": {
+    "username": "needacounto",
+    "images": true,
+    "issueStartNumber": 1,
+    "issueEndNumber": 15
+  }
+}
